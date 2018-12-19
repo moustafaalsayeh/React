@@ -1,4 +1,4 @@
-# Project Title
+# React App
 Front-End Web Development with React.
 
 # Main Concepts
