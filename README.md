@@ -1,7 +1,7 @@
 # React App
-Front-End Web Development with React.
+Frontend Web Development with React.
 
-# Download
+# Get Started
 ```
 git clone https://github.com/moustafaalsayeh/React.git
 npm start
