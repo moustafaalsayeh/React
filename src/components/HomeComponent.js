@@ -49,16 +49,6 @@ const onSubmitHandler = e => {
 function Home(props) {
     return (
         <div className="container">
-            <div className="row">
-                <div className="col-12">
-                    <form onSubmit={onSubmitHandler}>
-                        <label htmlFor="firstname">Firstname</label>
-                        <input ref={username} id="firstname" name="firstname" />
-
-                        <button type="submit">Submit</button>
-                    </form>  
-                </div>
-            </div>
             <div className="row align-items-start">
                 <div className="col-12 col-md m-1">
                     <RenderCard item={props.dish} isLoading={props.dishesLoading} errMess={props.dishErrMess} />
