@@ -5,7 +5,7 @@ Frontend Web Development with React.
 ```
 git clone https://github.com/moustafaalsayeh/React.git
 
-Install these libraries if not avaliable.
+Install these libraries if not installed.
 npm install react-scripts --save
 npm install -g json-server
 
