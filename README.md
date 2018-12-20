@@ -1,10 +1,8 @@
 # React App
 Front-End Web Development with React.
 
-# Main Concepts
+# Download
 ```
-JSX
-Components and Props
-State and Lifecycle
-Handling Events
+npm start
+json-server --watch db.json -p 3001 -d 2000
 ```
